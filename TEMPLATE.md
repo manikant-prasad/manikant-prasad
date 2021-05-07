@@ -4,4 +4,4 @@ Since then I pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted
 
 Most used languages across my projects:
 
-{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_PERCENT }} {{ LANGUAGE_TEMPLATE_END }}
